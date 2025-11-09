@@ -1,2 +1,1 @@
 # EcoSense
-# EcoSense
